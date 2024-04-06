@@ -1,0 +1,93 @@
+body{
+  font-family: "Raleway";
+  background-color: #000;  
+}
+
+.marg{
+    margin: 0;
+}
+.txheader h1{
+    text-align: center;    
+    font-size: 50px;
+    height: 73px;
+    color: #fff;
+    background-color: #000;
+    margin: 0;
+}
+
+.header{
+    background-image: url(../img/bg-header.jpg);
+    background-size: cover;
+    height: 727px;
+}
+
+.present{
+    color: #fff;
+    background-color: #000;
+    height: 348px;
+    margin: 0;
+    text-align: left;
+    padding: 1em;    
+}
+
+.present p{
+    vertical-align: middle;
+}
+
+.presentimg{
+    float: right;
+    margin:0px;
+    width: 399px;
+    height: 237;
+    padding: 1%;
+}
+
+.caractx{
+    text-align: center;
+    color: #fff;
+    background: #000;
+    margin: 0;
+    padding: 5%;
+}
+    
+
+.carac{
+    display: inline-block;
+    width: 30%;
+    height: 348px;
+    text-align: center;
+    color: #fff;
+    background-color: #000;
+    margin: 0;
+    padding: 0;
+}
+
+
+.carach5{
+    font-size: 20px;
+}
+
+.gal{
+    float: left;
+    width: 29%;
+    height: 348px;
+    padding: 1%;
+    margin: 1%;
+
+}
+
+.gal img{
+    width: 100%;
+    height: auto;
+}
+
+.foot{
+    color: #fff;
+    text-align: center;
+}
+
+.foot a{
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+ }
